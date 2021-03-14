@@ -4,13 +4,23 @@ In der offizellen Version sind aktuell(Stand 16.02.2021) die Dead Keys nicht auf
 
 in dieser Version sind folgende Dead Key-Ebenen angepasst:
 
+Ebene1:
+- `
 - ´
-- ´+ Shift
 - ^
-- ^ + Shift
-- ˇ
-- ˇ+ Shift
 
+Ebene2:
+- ˇ   ohne: Ǯ,ǯ
+- ¸
+- ~
+
+Ebene2:
+↻
+↻+ Shift 
+˚
+˚+Shift
+/
+/+Shift
 
 # Installation 
 Die Anleitung wie auf https://neo-layout.org/Download/ beschrieben
