@@ -15,12 +15,9 @@ Ebene2:
 - ~
 
 Ebene2:
-↻
-↻+ Shift 
-˚
-˚+Shift
-/
-/+Shift
+- ↻
+- ˚
+- /
 
 # Installation 
 Die Anleitung wie auf https://neo-layout.org/Download/ beschrieben
